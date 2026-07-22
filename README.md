@@ -1,6 +1,6 @@
 # Robert Young
 
-Security and risk professional who builds. A decade of security experience
+Security and risk professional who ejoys building. A decade of security experience
 across enterprise, cloud, and audit environments, including leading AWS
 audit engagements reported to Amazon's Audit Committee, paired with
 independent development of production software. My current work sits where
