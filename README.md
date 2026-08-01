@@ -16,8 +16,17 @@ that make entire vulnerability classes structurally inexpressible, so
   reachability, and taint tracking
 - Agentic engineering workflows with independent review layers and codified
   verification gates
-- Applied research on large-scale real-world transportation sensor data
-  (private)
+- Applied research on large-scale public transportation sensor data
+  (private). A feasibility study detecting stop-and-go "phantom" traffic
+  waves in sparse freeway loop-detector data. As much a methodology
+  exercise as an engineering one: correctness was established against
+  pre-registered targets on synthetic ground truth, cross-checked with an
+  independently reasoned second implementation, and, the part I'm most
+  deliberate about, negative results were reported as negative rather than
+  tuned into existence. The recurring hazard throughout was a single bug
+  class, confusing "no data" with a genuine extreme value, which I found
+  more effective to name explicitly and re-validate against at every layer
+  than to chase fix by fix.
 
 ## Background
 
