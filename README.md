@@ -1,37 +1,26 @@
 # Robert Young
 
-Security and risk professional who enjoys building. A decade of security experience
-across enterprise, cloud, and audit environments, including leading AWS
-audit engagements reported to Amazon's Audit Committee, paired with
-independent development of production software. My current work sits where
-security engineering meets AI-assisted development: deterministic checkers
-that make entire vulnerability classes structurally inexpressible, so
-"passes the check" means the property holds on every reachable path.
+Security and risk professional with a decade of security
+experience across enterprise, cloud, and audit environments, including
+leading IT and security audit engagements at Amazon reported to Amazon's
+Audit Committee. Independent work sits where security and audit judgment
+meet hands-on building: I care most about verifiable controls and
+evidence over confident narrative, and I apply that discipline whether
+I'm assessing a system or building one.
 
 ## Current focus
 
-- Design-time security tooling: deterministic static checkers as the trust
-  boundary in AI-assisted code generation
-- Protocol and state-machine analysis: fail-closed verification, auth-gated
-  reachability, and taint tracking
+- Design-time verification as a discipline: exhaustive, deterministic
+  checking of security properties as a trust boundary in AI-assisted
+  development
 - Agentic engineering workflows with independent review layers and codified
   verification gates
-- Applied research on large-scale public transportation sensor data
-  (private). A feasibility study detecting stop-and-go "phantom" traffic
-  waves in sparse freeway loop-detector data. As much a methodology
-  exercise as an engineering one: correctness was established against
-  pre-registered targets on synthetic ground truth, cross-checked with an
-  independently reasoned second implementation, and, the part I'm most
-  deliberate about, negative results were reported as negative rather than
-  tuned into existence. The recurring hazard throughout was a single bug
-  class, confusing "no data" with a genuine extreme value, which I found
-  more effective to name explicitly and re-validate against at every layer
-  than to chase fix by fix.
+- Applied research using a data pipeline that analyzes large-scale public freeway sensor data to detect traffic congestion waves, toward real-world flow-smoothing measures (traffic harmonization), with layered data-quality controls and a validation against pre-registered accuracy targets
 
 ## Background
 
-- CISSP | CCSP | GSEC
-- Previously: AWS risk management and cloud security at Amazon
+- CISSP | CCSP | GSEC | ITIL
+- Previously: IT Audit and Cloud Security at Amazon | IT Security at the University of Georgia
 
 ## Links
 
